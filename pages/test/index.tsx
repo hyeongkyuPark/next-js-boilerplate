@@ -1,7 +1,5 @@
-import * as S from './styles';
-
 const TestPage = () => {
-	return <S.TestLayout>Test</S.TestLayout>;
+	return <div>Test</div>;
 };
 
 export default TestPage;
